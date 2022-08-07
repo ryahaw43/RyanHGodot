@@ -6,7 +6,7 @@
 
 [node name="World" type="Spatial"]
 
-[node name="testroom" parent="." instance=ExtResource( 1 )]
+[node name="testlevel" parent="." instance=ExtResource( 1 )]
 
 [node name="Player" parent="." instance=ExtResource( 2 )]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.237204, 0 )
